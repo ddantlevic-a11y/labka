@@ -22,6 +22,7 @@ int main()
     cout << "hello world" << endl;
     cout << "Hello c++" << endl;
     cout << "Hello world" << endl;
+    cout << "Hello all" << endl;
     cin.get();
     return 0;
 }
