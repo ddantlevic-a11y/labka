@@ -20,6 +20,7 @@ int main()
     cout << "z1 = " << z1 << endl;
     cout << "z2 = " << z2 << endl;
     cout << "hello world" << endl;
+    cout << "Hello c++" << endl;
     cin.get();
     return 0;
 }
